@@ -5,7 +5,7 @@ the attendance will be initiated only when the teacher's fingerprint is detected
 students to attend then, and again the teacher's fingerprint will be required for the 
 attendance closure.
 
-LIBRARIES USED COMPONENTS:
+LIBRARIES USED:
 .adafruit fingerprint library
 .arduino ide built-in EEPROM library
 .arduino ide built-in keypad library
