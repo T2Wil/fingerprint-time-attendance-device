@@ -1,4 +1,5 @@
 # fingerprint-time-attendance-device
+----------------------------------------
 fingerprint attendance device in progress
 
 It will record the exact time and date the attendance has started.
@@ -10,6 +11,7 @@ students to attend then, and again the teacher's fingerprint will be required fo
 attendance closure.
 
 LIBRARIES USED:
+----------------
 .adafruit fingerprint library
 
 .arduino ide built-in EEPROM library
@@ -18,4 +20,6 @@ LIBRARIES USED:
 
 .arduino ide built-in liquidCrystal library
 
-
+IMAGE
+-----
+![the giants attendance device](https://user-images.githubusercontent.com/30593186/48235864-60b15980-e3c8-11e8-9f96-6825c76ac41b.jpg)
