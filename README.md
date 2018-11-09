@@ -1,12 +1,11 @@
 # fingerprint-time-attendance-device
 ----------------------------------------
-fingerprint attendance device in progress
 
-It will record the exact time and date the attendance has started.
+It records the exact time and date the attendance has started.
 
-The attendance will be initiated only when the teacher's fingerprint is detected for the 
+The attendance is initiated only when the teacher's fingerprint is detected for the 
 
-students to attend then, and again the teacher's fingerprint will be required for the 
+students to attend then, and again the teacher's fingerprint is required for the 
 
 attendance closure.
 
